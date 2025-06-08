@@ -1,5 +1,4 @@
-Cybersecurity - Suspicious Web Threat Interactions Analysis
-
+**Cybersecurity - Suspicious Web Threat Interactions Analysis**
 This project focuses on analyzing web traffic logs and detecting suspicious interactions to support cybersecurity threat intelligence. Using advanced EDA, feature engineering, and machine learning techniques, we uncover hidden patterns, identify high-risk IPs, and visualize threats for quick decision-making through a Streamlit dashboard.
 
 ## 📁 Dataset
@@ -27,5 +26,5 @@ This project focuses on analyzing web traffic logs and detecting suspicious inte
 - **Dashboard:** Streamlit
 - **Notebook:** Jupyter (`Cybersecurity-SuspiciousWebThreatInteractions.ipynb`)
 
-- **🙌 Acknowledgements**
+**🙌 Acknowledgements**
   This project is developed as part of a cybersecurity data science initiative to help visualize and detect network threats using advanced data analytics.
