@@ -27,5 +27,5 @@ This project focuses on analyzing web traffic logs and detecting suspicious inte
 - **Dashboard:** Streamlit
 - **Notebook:** Jupyter (`Cybersecurity-SuspiciousWebThreatInteractions.ipynb`)
 
-- 🙌 Acknowledgements
-This project is developed as part of a cybersecurity data science initiative to help visualize and detect network threats using advanced data analytics.
+- **🙌 Acknowledgements**
+  This project is developed as part of a cybersecurity data science initiative to help visualize and detect network threats using advanced data analytics.
